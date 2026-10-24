@@ -37,8 +37,13 @@ Checks learned on task 61:
 - Strip "[Request interrupted by user]" from a pasted prompt.
 - Form rule: a 3 only where the suggestion names the shared trait. If the suggestion gives 2 or 4, keep it unless there is a real wrong point, and add the AR-10 "Despite" sentence.
 
+## Rationale style (Pandu rule, 2026-10-24)
+- Always use the chakri-writing-style skill: simple plain words, short sentences, no long chains joined by commas, no fancy words, no em dashes.
+- One idea per sentence. Keep the required parts (opening line, deciding point with quotes, Despite and tie sentences, slightly/significantly reason, quality reason).
+
 ## Task log
 
 | Task | Session ID | Category | Verdict | Status |
 |---|---|---|---|---|
-| 61 | 1edda904-6a74-4567-8f3e-cbed27a03ec7 | Tracker + email | B significantly, Bad, 4,5,4,2,4,3,3,3. Took suggestion. A guessed form dates ("আন্দাজে দিয়েছি"), called Saturdays Friday, venue Punggol (email says Sengkang CC), 3 Oct (tomorrow) marked unpaid. B honest placeholders. Neither read Shirley emails or made a Gmail draft | bn-sg-06 Srabani Majhi. Verdict given, waiting for Hatch entry |
+| 61 | 1edda904-6a74-4567-8f3e-cbed27a03ec7 | Tracker + email | B significantly, Bad, 4,5,4,2,4,3,3,3. Took suggestion. A guessed form dates ("আন্দাজে দিয়েছি"), called Saturdays Friday, venue Punggol (email says Sengkang CC), 3 Oct (tomorrow) marked unpaid. B honest placeholders. Neither read Shirley emails or made a Gmail draft | bn-sg-06 Srabani Majhi. Verdict given |
+| 62 | (reread from Hatch) | Email | B slightly, Bad, 4,3,5,4,3,3,3,3. Took suggestion. Both searched only Gmail, missed Outlook thread (6 short, 4 found, 2 missing). A three English status lines | bn-sg-03 Madhumita Sen. Verdict given |
