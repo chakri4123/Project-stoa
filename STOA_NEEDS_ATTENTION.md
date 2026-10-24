@@ -12,6 +12,11 @@ Shared by every Stoa account (Charan, Adarsh, Praneeth, anyone new). Read this b
   1. Paste the given prompt into the form FIRST and run the form check BEFORE you create the Hatch session or send anything. Only go to Hatch once the form shows no needs-attention alert on the prompt.
   2. Do not reword the prompt to beat ST-L1. If the check flags the given prompt itself, ask in #stoa-tasking (or skip/release the task) before you spend Hatch time on it.
 
+### ST-L1 again (Charan, zh_sg, task 8, 2026-10-24)
+- **Alert:** "Manual review needed: verify whether substantive English-Chinese code-mixing (doc, polyclinic, calendar) is permitted". Reasoning said "Review alert only; no violation is established", but the form still BLOCKS: no submit, no next step.
+- Restarting the session does not help: the same given prompt fires the same alert.
+- **Rule:** if ST-L1 shows on the given prompt at the form check, stop before Hatch. Do not edit the prompt. Post in #stoa-tasking or release/skip the task.
+
 ## Hatch mistakes
 
 | Account / task | Mistake | Fix / rule |
