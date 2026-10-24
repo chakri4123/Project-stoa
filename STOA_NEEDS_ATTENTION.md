@@ -40,3 +40,22 @@ Shared by every Stoa account (Charan, Adarsh, Praneeth, anyone new). Read this b
 - Check who the WhatsApp contact is in the chat history before judging tone (Charan task 1: 建忠 was family, so "建忠你好，我是Li Ting" was a stiff self-intro).
 - Check the world clock in the Hatch header before calling a time remark wrong (Charan task 1: "晚上赶工辛苦了" was right at 21:12, though the suggestion called it unsupported).
 - Tengah task final: edited prompt (Tengah->登加, HDB->建屋局, link->链接) cleared ST-L1. Lessons: rerun Hatch after any prompt edit; never resend or interrupt an arm (B took ~6 min, normal); a SKIP gives no suggested rationale, so ST-R6 blocks until manual review. Task unclaimed, not counted.
+
+## Mistakes so far and the fix (Pandu + Charan, 2026-10-24). Read before every task
+1. Changed a suggested score to 3 without the suggestion naming a shared trait (task 61). Fix: keep the suggestion's 2/4 and add a "Despite..." sentence.
+2. Pasted responses in a different order than the traces (61). Fix: match each response to its own trace before pasting.
+3. Pasted trace cut off (Charan 10). Fix: copy the full trace from Hatch, check the last message is there.
+4. Ran Hatch before the ST-L1 check (doc task, Tengah). Fix: run the form prompt check FIRST, then create the Hatch session.
+5. Edited the prompt but pasted old traces (Tengah SKIP). Fix: any prompt edit means a brand new Hatch session.
+6. Resent the prompt / interrupted an arm because it was slow (Tengah SKIP). Fix: send once, never stop, never resend. Web tasks take 5-8 min. If stuck 15+ min, abandon and start fresh.
+7. Tried to submit a SKIP run. Fix: SKIP means no suggestion, so ST-R6 blocks. Rerun cleanly, never force it.
+8. Rationale too short for ST-R1 (label line does not count). Fix: opening label line plus at least 7 full sentences.
+9. Rationale lines starting with dash/number fail ST-R6. Fix: one plain paragraph, no bullets.
+10. Task numbering mixed up (8 vs 9). Fix: only count a task once it is submitted; blocked/unclaimed ones are not numbered.
+
+## Pre-send checklist (every task)
+- Form prompt check passed, no ST-L1.
+- New Hatch session, renamed 117b62a29422_task_N.
+- Prompt pasted once, exactly as in the form. Hands off until both arms finish.
+- Each trace shows the prompt once, no "interrupted" notice, full length.
+- Suggestion is not SKIP before entering the verdict.
