@@ -15,6 +15,7 @@ Shared by every Stoa account (Charan, Adarsh, Praneeth, anyone new). Read this b
 ### ST-L1 again (Charan, zh_sg, task 8, 2026-10-24)
 - **Alert:** "Manual review needed: verify whether substantive English-Chinese code-mixing (doc, polyclinic, calendar) is permitted". Reasoning said "Review alert only; no violation is established", but the form still BLOCKS: no submit, no next step.
 - Restarting the session does not help: the same given prompt fires the same alert.
+- Seen again on Charan's next Tengah/HDB prompt (English proper nouns HDB, Tengah). Even proper nouns trigger it.
 - **Rule:** if ST-L1 shows on the given prompt at the form check, stop before Hatch. Do not edit the prompt. Post in #stoa-tasking or release/skip the task.
 
 ## Hatch mistakes
