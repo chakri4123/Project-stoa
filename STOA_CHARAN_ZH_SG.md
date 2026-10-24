@@ -21,6 +21,10 @@ General steps: `STOA_WORKFLOW.md`. This file holds only what is specific to this
 - Paste the prompt exactly as given (its own script and language mix). Zoom the box to check it before sending.
 - Hatch Home row menu (Stop, Rename, Delete): close it by clicking elsewhere, never Escape.
 
+## Rationale style (Charan rule, 2026-10-24)
+- Plain English only, chakri-writing-style: simple words, short sentences, one idea per sentence, no em dashes.
+- Keep only 1 or 2 short Chinese quotes (the guide requires quoted words), each with a plain English meaning in brackets.
+
 ## Task log
 
 | Task | Session ID | Category | Verdict | Status |
