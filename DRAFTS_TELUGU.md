@@ -1,0 +1,15 @@
+# Telugu drafts (never claimed in HAI, removed from Hatch)
+
+Telugu project (te_in_ap, Bharathi Dasari) ended on 2026-10-20. These sessions were never started in Handshake, so they are dropped. Prompts are kept here only so they are never reused.
+
+| Task | Session ID | Category | State when dropped | Prompt |
+|---|---|---|---|---|
+| 15 | 98cebf56-aded-421a-b58e-c42f1d1c7499 | Learning / Research | never started (forked arms error) | duolingo lo english speaking streak 6 days ayindi, lesson lo morning shift interview ki self-intro record cheyyamani, dissolution test gurinchi 5 lines cheppamani undi. na resume v3 lo hplc calibration point add chesanu ani lahari ki mail lo cheppa. english lo simple self-intro, dissolution 5 lines practice cheyyadaniki help cheyyi, ela improve avvalo kuda cheppu. |
+| 16 | 8b8905d2-bbd1-40ff-8e32-5d0389dd5584 | Shopping | never started | sep 23 na oka number nunchi mee fancy store parcel address tappu valla maa intiki vachindi ani message vachindi, inka teesukoledu. ippudu amma pampina delhivery parcel kuda oct 3 delivery ki undi, otp tho istaru anta. rendu parcels safe ga ela teesukovali, address malli tappu avvakunda em cheyyali cheppu. |
+| 17 | a2f28eb3-eefa-4bdc-b0f2-1380a1c91783 | Finance | never started | groww mail lo nela 1000 save cheyyadaniki rd leda sip ani compare chesaru. notion diary lo saving box ki 1000 pakkana pettali ani rule pettukunna. gpat stipend 12400 vachhaka aa 1000 rd lo veyala sip lo veyala, student ga naku edi better simple ga cheppu. |
+| 19 | 15f5ec4d-e523-4343-9445-143f898f5e1a | Relationships | scored, not claimed | deepthi ki oct 4 na prelims undi, gym lo cardio chestunna kuda reasoning tirugutundi ani tension padutundi. prelims ayyaka cardio plus palli party cheddam ani promise chesa. prelims mundu aameki ela support cheyyali, oct 4 evening ki chinna surprise plan emaina cheppu, budget takkuva lo. |
+| 20 | a707ca44-dcd3-4d7c-a158-8e5186a10c32 | Work Productivity / SMB | scored, not claimed | oct 8 thursday 3 ki madhavi latha garu tho project review undi calendar lo. sr tablets project report doc oct 1 na update chesa, viva points doc lo madam adigina burst release enduku taggindi ane question undi. review ki em em ready cheyyali, aa question ki ela answer cheppali oka chinna list pettu. |
+| 21 | aad469f1-7ea0-4d79-8f51-e12c8259ec74 | Emotional Support | never started | notion diary lo saving veyi line chustu empty feeling ga undi ani rasukunna. vizianagaram nunchi vachaka amma kuda nirasam ga unnav ani adigindi. intlo vallani miss avutunna, dabbula tension kuda undi. konchem matladu, ee feeling ela handle cheyyali. |
+| 22 | 87cf26f3-071a-4a3d-82a6-136b17b514ba | Travel | never started | sankranti tickets gurinchi sravani tho matladali ani na oct first week pending list lo undi. apsrtc mail lo sankranti advance booking open, roommates tho kalisi book cheyyamani undi, irctc nunchi kuda login otp vachindi. sankranti ki vijayawada nunchi vizianagaram train or bus edi better, eppudu book cheyyali, sravani tho em matladali cheppu. |
+
+Task 14 (39e9d665) was submitted, so it stays in Hatch and in the main log.

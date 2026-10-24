@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Claude_Browser",
+      "mcp__Claude_Browser__*",
+      "Edit",
+      "Write",
+      "Read"
+    ]
+  }
+}
