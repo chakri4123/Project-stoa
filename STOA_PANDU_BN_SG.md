@@ -45,5 +45,5 @@ Checks learned on task 61:
 
 | Task | Session ID | Category | Verdict | Status |
 |---|---|---|---|---|
-| 61 | 1edda904-6a74-4567-8f3e-cbed27a03ec7 | Tracker + email | B significantly, Bad, 4,5,4,2,4,3,3,3. Took suggestion. A guessed form dates ("আন্দাজে দিয়েছি"), called Saturdays Friday, venue Punggol (email says Sengkang CC), 3 Oct (tomorrow) marked unpaid. B honest placeholders. Neither read Shirley emails or made a Gmail draft | bn-sg-06 Srabani Majhi. Verdict given |
-| 62 | (reread from Hatch) | Email | B slightly, Bad, 4,3,5,4,3,3,3,3. Took suggestion. Both searched only Gmail, missed Outlook thread (6 short, 4 found, 2 missing). A three English status lines | bn-sg-03 Madhumita Sen. Verdict given |
+| 61 | 1edda904-6a74-4567-8f3e-cbed27a03ec7 | Tracker + email | B significantly, Bad, 4,5,4,2,4,3,3,3. Took suggestion. A guessed form dates ("আন্দাজে দিয়েছি"), called Saturdays Friday, venue Punggol (email says Sengkang CC), 3 Oct (tomorrow) marked unpaid. B honest placeholders. Neither read Shirley emails or made a Gmail draft | bn-sg-06 Srabani Majhi. COMPLETED |
+| 62 | (reread from Hatch) | Email | B slightly, Bad, 4,3,5,4,3,3,3,3. Took suggestion. Both searched only Gmail, missed Outlook thread (6 short, 4 found, 2 missing). A three English status lines | bn-sg-03 Madhumita Sen. COMPLETED |
