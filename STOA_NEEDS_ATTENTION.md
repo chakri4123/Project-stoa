@@ -39,3 +39,4 @@ Shared by every Stoa account (Charan, Adarsh, Praneeth, anyone new). Read this b
 ## Judging notes that held up
 - Check who the WhatsApp contact is in the chat history before judging tone (Charan task 1: 建忠 was family, so "建忠你好，我是Li Ting" was a stiff self-intro).
 - Check the world clock in the Hatch header before calling a time remark wrong (Charan task 1: "晚上赶工辛苦了" was right at 21:12, though the suggestion called it unsupported).
+- Tengah task final: edited prompt (Tengah->登加, HDB->建屋局, link->链接) cleared ST-L1. Lessons: rerun Hatch after any prompt edit; never resend or interrupt an arm (B took ~6 min, normal); a SKIP gives no suggested rationale, so ST-R6 blocks until manual review. Task unclaimed, not counted.
