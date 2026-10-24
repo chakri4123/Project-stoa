@@ -59,3 +59,4 @@ Shared by every Stoa account (Charan, Adarsh, Praneeth, anyone new). Read this b
 - Prompt pasted once, exactly as in the form. Hands off until both arms finish.
 - Each trace shows the prompt once, no "interrupted" notice, full length.
 - Suggestion is not SKIP before entering the verdict.
+- ST-C5 (advisory): fires when 3+ ratings favour the losing arm. Do not change scores; fill the 'reason for disagreeing' box with the trade-off (task 12).
