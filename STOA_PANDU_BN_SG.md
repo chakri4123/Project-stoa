@@ -25,7 +25,20 @@ General steps: `STOA_WORKFLOW.md`. This file holds only what is specific to this
 - Quote Bengali in its original script with the English meaning in brackets. Every other sentence in the rationale is plain English.
 - Hatch Home row menu (Stop, Rename, Delete): close it by clicking elsewhere, never Escape.
 
+## Cloud-session workflow (no built-in browser, 2026-10-24)
+This chat runs in a cloud session with no built-in browser, so Pandu does all Hatch and form clicks. Claude only checks and writes.
+1. Pandu pastes the HAI task text (prompt, gloss, category, grounded records). Claude gives the prompt and session name as ready-to-paste blocks.
+2. Pandu runs the form prompt check, creates the Hatch session, renames it, sends the prompt once, and takes ss1. Claude helps find the record from a screenshot.
+3. Pandu pastes Trace A, Trace B, both responses and the form's suggested verdict.
+4. Claude checks every point against the traces and gives the 8 scores, preference, quality, rationale and Notes as code blocks.
+5. Pandu enters them in Hatch, clicks Submit preference and End comparison, takes the panel shots, and copies the same values to the form.
+Checks learned on task 61:
+- Pasted responses can come in the opposite order to the traces. Match each response to its own trace before pasting on the form.
+- Strip "[Request interrupted by user]" from a pasted prompt.
+- Form rule: a 3 only where the suggestion names the shared trait. If the suggestion gives 2 or 4, keep it unless there is a real wrong point, and add the AR-10 "Despite" sentence.
+
 ## Task log
 
 | Task | Session ID | Category | Verdict | Status |
 |---|---|---|---|---|
+| 61 | 1edda904-6a74-4567-8f3e-cbed27a03ec7 | Tracker + email | B significantly, Bad, 4,5,4,2,4,3,3,3. Took suggestion. A guessed form dates ("আন্দাজে দিয়েছি"), called Saturdays Friday, venue Punggol (email says Sengkang CC), 3 Oct (tomorrow) marked unpaid. B honest placeholders. Neither read Shirley emails or made a Gmail draft | bn-sg-06 Srabani Majhi. Verdict given, waiting for Hatch entry |
