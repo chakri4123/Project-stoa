@@ -61,3 +61,5 @@ Shared by every Stoa account (Charan, Adarsh, Praneeth, anyone new). Read this b
 - Suggestion is not SKIP before entering the verdict.
 - ST-C5 (advisory): fires when 3+ ratings favour the losing arm. Do not change scores; fill the 'reason for disagreeing' box with the trade-off (task 12).
 11. Pasted Trace A into the Trace B box (task 13 SKIP). Fix: check the header says Trace B and the last message is B's reply.
+
+- ST-L4 (task 65, Pandu): rationale had "Style and Style and behavior go to A", flagged as editing residue. Never put two rating names side by side where one contains the other. Say "both style ratings" instead.
