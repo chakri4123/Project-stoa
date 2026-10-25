@@ -47,3 +47,4 @@ Checks learned on task 61:
 |---|---|---|---|---|
 | 61 | 1edda904-6a74-4567-8f3e-cbed27a03ec7 | Tracker + email | B significantly, Bad, 4,5,4,2,4,3,3,3. Took suggestion. A guessed form dates ("আন্দাজে দিয়েছি"), called Saturdays Friday, venue Punggol (email says Sengkang CC), 3 Oct (tomorrow) marked unpaid. B honest placeholders. Neither read Shirley emails or made a Gmail draft | bn-sg-06 Srabani Majhi. COMPLETED |
 | 62 | (reread from Hatch) | Email | B slightly, Bad, 4,3,5,4,3,3,3,3. Took suggestion. Both searched only Gmail, missed Outlook thread (6 short, 4 found, 2 missing). A three English status lines | bn-sg-03 Madhumita Sen. COMPLETED |
+| 63 | (reread from Hatch) | Nutrition (tiffin) | A slightly, Good, 2,2,2,3,2,2,3,3. Took suggestion. Prompt edit: Nutrition->নিউট্রিশন (one-check rule). 16 tiffins, avg 361 cal/444 mg, 680 mg tie 11 Sep + 2 Oct. B omitted 11 Sep contents + romanized opener | persona: ask. SUBMITTED |
